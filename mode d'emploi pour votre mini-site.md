@@ -1,8 +1,8 @@
 ---
-title: Mode d'emploi pour votre mini-site
+title: "Mode d'emploi pour votre mini-site"
 order: 0
+in_menu: true
 ---
-
 # Comment on le crée ce mini-site ?
 
 ## 1° Créer son mini-site
@@ -21,3 +21,17 @@ order: 0
 
 ![Le bouton se trouve tout en bas d'une notice](https://beta.framalibre.org/images/capture_bouton_copier_minisite.png)
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/KeePassDX.png">
+    </div>
+    <div>
+      <h2>KeePassDX</h2>
+      <p>Keepass DX est un client KeePass Android de gestion d'identités numériques et de mots de passe.</p>
+      <div>
+        <a href="https://framalibre.org/notices/keepassdx.html">Vers la notice Framalibre</a>
+        <a href="https://f-droid.org/packages/com.kunzisoft.keepass.libre/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
